@@ -141,7 +141,7 @@ By synthesizing the SQL analysis and Power BI visualizations into the final proj
 
 👉 **Interactive Visualization** | [Download Power BI Dashboard File](customer_shopping_behavior_dashboard.pbix)
 
-👉 **Interactive Visualization** | [Download Power BI report pdf File](customer_shopping_behavior_dashboard.pdf)
+👉 **Interactive Visualization** | [Open Power BI report pdf File](customer_shopping_behavior_dashboard.pdf)
 
 ---
 
