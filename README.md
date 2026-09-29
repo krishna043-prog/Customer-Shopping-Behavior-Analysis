@@ -133,15 +133,15 @@ By synthesizing the SQL analysis and Power BI visualizations into the final proj
 
 👉**Customer Dataset link:** [Open Customer dataset csv file](customer_shopping_behavior.csv)
 
-👉 **Finalized Project Report** | [Open PDF Report](customer_behavior_report.pdf)
+👉 **Finalized Project Report** | [Open PDF Report](customer_shopping_behavior_report.pdf)
 
 👉 **Python Pipeline Code** | [Open Jupyter Notebook](data_preprocessing_and_cleaning.ipynb)
 
 👉 **Database Source Scripts** | [Review SQL Queries](data_exploration_and_data_analysis.sql)
 
-👉 **Interactive Visualization** | [Download Power BI Dashboard File](dashboard/customer_shopping_behavior_dashboard.pbix)
+👉 **Interactive Visualization** | [Download Power BI Dashboard File](customer_shopping_behavior_dashboard.pbix)
 
-👉 **Interactive Visualization** | [Download Power BI report pdf File](dashboard/customer_shopping_behavior_dashboard.pdf)
+👉 **Interactive Visualization** | [Download Power BI report pdf File](customer_shopping_behavior_dashboard.pdf)
 
 ---
 
