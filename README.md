@@ -7,7 +7,7 @@ By handling data transformation in Python, relational mapping and deep-dive quer
 
 ## 📊 Dataset Summary
 
-Customer metric dataset:
+[See Customer metric dataset](customer_shopping_behavior.csv)
   
 **Rows:** 3,900
 
