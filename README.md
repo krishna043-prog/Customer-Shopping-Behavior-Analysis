@@ -7,7 +7,7 @@ By handling data transformation in Python, relational mapping and deep-dive quer
 
 ## 📊 Dataset Summary
 
-[See Customer metric dataset](customer_shopping_behavior.csv)
+Customer metric dataset
   
 **Rows:** 3,900
 
@@ -130,6 +130,8 @@ By synthesizing the SQL analysis and Power BI visualizations into the final proj
 * **Increase Average Order Value (AOV):** Set a free shipping threshold at $65 or $70 to organically push the current $59.76 average spend baseline higher.
 
 ## 📄 Project Documentation & Resource Links
+
+👉**Customer Dataset link:** [Open Customer dataset csv file](customer_shopping_behavior.csv)
 
 👉 **Finalized Project Report** | [Open PDF Report](customer_behavior_report.pdf)
 
